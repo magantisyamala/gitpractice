@@ -16,5 +16,5 @@ if __name__ == '__main__':
     print("How are you")
     print(add(2,3))
     print("welcome to github")
-    x=2
+    x=30
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
